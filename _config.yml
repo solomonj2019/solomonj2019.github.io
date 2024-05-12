@@ -12,7 +12,7 @@ title                    : "Jack Michael Solomon"
 title_separator          : "-"
 name                     : &name "Jack Michael Solomon"
 description              : &description "Second-year Computational Mathematics Ph.D. student at Emory University.  My interests lie in the applications of optimization, inverse problems and numerical linear algebra in scientific machine learning, algorithmic fairness and medical imaging."
-url                      : "https://michaelsolomon.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://solomonj2019.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "solomonj2019/solomonj2019.github.io"
 
